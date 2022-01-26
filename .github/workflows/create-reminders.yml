@@ -2,7 +2,7 @@ name: 'create reminder'
 
 on:
   issue_comment:
-    types: [created, edited]
+    types: [created, edited, deleted]
 
 jobs:
   reminder:
