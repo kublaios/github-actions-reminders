@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: Create Reminder
-        uses: agrc/create-reminder-action@fix/83
+        uses: agrc/create-reminder-action@5f6624cbb374f9b79fe4b0bf6efd6c658eec6280
