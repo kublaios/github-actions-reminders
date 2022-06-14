@@ -10,4 +10,4 @@ jobs:
 
     steps:
     - name: Issue Reminder
-      uses: KaiaHealth/reminder-action@453ef8ea57a18f4e2a1bee3b29c40a5b8782c674
+      uses: kublaios/reminder-action@453ef8ea57a18f4e2a1bee3b29c40a5b8782c674
