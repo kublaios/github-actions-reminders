@@ -10,4 +10,4 @@ jobs:
 
     steps:
     - name: Issue Reminder
-      uses: agrc/reminder-action@v1.0.1
+      uses: KaiaHealth/reminder-action@453ef8ea57a18f4e2a1bee3b29c40a5b8782c674
