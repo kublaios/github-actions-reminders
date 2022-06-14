@@ -1,8 +1,8 @@
-name: 'check reminders'
+name: 'check reminders (hourly)'
 
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 * * * *"
 
 jobs:
   reminder:
